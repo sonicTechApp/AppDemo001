@@ -1,3 +1,4 @@
 hello git!
 test add new line!
 test 获取与拉取的区别！
+add func1!
